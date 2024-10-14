@@ -2,7 +2,7 @@
 
 The repository contains data and scripts for analysis of immunoglobulin (IG) and T-cell receptor (TR) loci in genomes of four great ape species (bonobo, gorilla, Sumatran orangutan, and Bornean orangutan) assembled by the [Primate T2T project](https://github.com/marbl/Primates?tab=readme-ov-file#code-availability).
 
-## Data:
+## Data
 
 - `data_primate_igtrloci_locus_config.csv`: positions of IG/TR loci in genome assemblies of four great species. 
 - `data_primate_igtrloci_fasta/`: FASTA files with haplotype-resolved sequences of IG/TR loci in assemblies of four great species.
