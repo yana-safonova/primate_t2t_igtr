@@ -12,19 +12,22 @@ The repository contains data and scripts for analysis of immunoglobulin (IG) and
 - `data_SV_block_positions/`: positions of structural variation blocks computed within IG/TR loci.
 - `configs/`: config files containing paths to all data files for each of the loci as well as information about locus lengths and orientations in the assembly.
 
-### Code
-#### Dependencies:
+## Code
+### Dependencies:
 - BioPython.
 - [pyGenomeViz](https://github.com/moshi4/pyGenomeViz), v.0.4.4.
 
-#### Visualization of genomic diagrams
+### Visualization of genomic diagrams
 `python visualize_genome_diagram.py locus_config.txt output_fname.png`
 
 E.g.:
 `python visualize_genome_diagram.py configs/config_IGH.txt IGH_diagram.png`
 
-#### Visualization of gene count plots
+### Visualization of gene count plots
 `python visualize_gene_counts.py locus_config.txt output_fname.png`
 
 E.g.:
 `python visualize_gene_counts.py configs/config_IGH.txt IGH_gene_counts.png`
+
+## Citation
+Yoo D, et al. [Complete sequencing of ape genomes.](https://www.biorxiv.org/content/10.1101/2024.07.31.605654v1) BioRxiv, 2024
