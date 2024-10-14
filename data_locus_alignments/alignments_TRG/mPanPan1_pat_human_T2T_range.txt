@@ -1,0 +1,2 @@
+G1_start	G1_end	G2_start	G2_end	PI
+11286	67197	28208	78960	88.02

@@ -1,0 +1,2 @@
+G1_start	G1_end	G2_start	G2_end	PI
+28208	73274	11259	61483	86.67

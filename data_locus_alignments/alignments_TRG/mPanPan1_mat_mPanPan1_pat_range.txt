@@ -1,0 +1,2 @@
+G1_start	G1_end	G2_start	G2_end	PI
+14264	154739	14264	150432	96.44

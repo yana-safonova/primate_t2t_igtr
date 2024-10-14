@@ -1,0 +1,2 @@
+G1_start	G1_end	G2_start	G2_end	PI
+44	146668	157593	214	86.19
